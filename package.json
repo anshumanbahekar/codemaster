@@ -1,7 +1,7 @@
 {
   "name": "codemaster",
   "version": "2.0.0",
-  "description": "Production-grade developer typing race — codemaster",
+  "description": "Developer typing race — 6 AI agents, Firebase, 5 themes, 50+ snippets",
   "type": "module",
   "scripts": {
     "dev": "vite",
